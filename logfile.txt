@@ -1,0 +1,1100 @@
+hello
+what time is iti'm going to see if this is logged into a text file
+let's see if a new line is placed at the end of the line this time
+time
+goodbye
+thank you
+this is another log file test
+i realize there's a problem if i say this it seems i say hi
+okay stop
+testing testing
+this is another file test
+this is another log file
+what time is it
+hi there
+oh i noticed your time for london is actually correct now great
+okay let's take a look at your log file now stop
+
+2023-10-21 20:43:19.164634
+
+i have not tested adding a the date
+what is a log file
+to the log file
+get better at listening definitely didn't get better at listening from me adding the tiny little listen moment of the starter
+this is a test
+why is it so slow
+whatever stop
+
+2023-10-21 20:52:39.618792
+
+hi
+what time is it in uk
+what time is it
+what time is it in new york
+
+2023-10-21 20:54:46.639190
+
+what time is it
+what time is it in london
+no you're wrong
+stop
+
+2023-10-21 21:01:13.116446
+
+what time is it
+what time is it in new york
+what time is it in uk
+
+2023-10-21 21:02:01.393467
+
+what time is it in uk
+what time is it
+what time is it in new york
+stop
+
+2023-10-21 21:11:00.287385
+
+Saying: Welcome, I'm listening to your commands!
+this is a test
+what time is it assistant what time is it
+Saying: It's 21 11
+thank you that's correct
+Saying: You're welcome!
+what time is it in uk
+Saying: It's 21 12
+no it's 2012
+pause sleep
+Saying: Sleeping. Please say listen to activate me again.
+Saying: I'm listening to your commands!
+stop
+Saying: Stopping!
+
+2023-10-21 21:16:49.150441
+
+Saying: Welcome, I'm listening to your commands!
+what time is it
+Saying: It's 21 16.
+what time is it in new york
+
+2023-10-21 21:17:22.121443
+
+Saying: Welcome, I'm listening to your commands!
+what time is it
+Saying: It's 21 17.
+what time is it in new york
+Saying: It's 15 in New  York.
+what time is it in london what time is it in uk
+Saying: It's 20 in London.
+Saying: It's 21 17.
+yeah that's good what time is it
+Saying: It's 21 18.
+what time is it in london
+Saying: It's 21 18.
+what time is it in uk
+Saying: It's 20 in London.
+Saying: It's 21 18.
+okay then we got a problem
+
+2023-10-21 21:19:12.077210
+
+Saying: Welcome, I'm listening to your commands!
+hi
+Saying:  hi  to you too!
+what time is it
+Saying: It's 21 19.
+what time is it in uk
+Saying: It's 20 in London.
+what time is it in new york
+Saying: It's 15 in New  York.
+great thank you
+Saying: You're welcome!
+hi
+Saying:  hi  to you too!
+test
+i'm updating your code what time section works now except for that i may want to add more parts locations
+Saying: It's 21 21.
+stop
+Saying: Stopping!
+
+2023-10-21 23:17:13.618837
+
+Saying: Welcome, I'm listening to your commands!
+hi
+Saying:  hi  to you too!
+what's up
+Saying: You have Linus tandl�kare at Thursday October 19th, 13:45
+
+what's up
+Saying: You have Linus tandl�kare at Thursday October 19th, 13:45
+
+
+2023-10-21 23:18:22.701837
+
+Saying: Welcome, I'm listening to your commands!
+what's up
+Saying: You have Hannas f�delsedag, f�dd 1977 at Saturday October 21st, 
+
+save audio note what's up
+Saying: What should the note say?
+Saying: What should it be called?
+Saying: Saving audio note third test note
+Saying: Saved!
+Saying: You have Hannas f�delsedag, f�dd 1977 at Saturday October 21st, 
+
+i'm seriously impressed that you got those things right
+what can you do
+Saying: 
+                    I can tell you the time, type for you and make text and audio notes.
+                    I'm just learning to help you manage your calendar and your tasks lists.
+                    I hope I can be of assistance!
+                    
+
+2023-10-21 23:23:42.380782
+
+Saying: Welcome, I'm listening to your commands!
+i'm impressed hi
+Saying:  hi  to you too!
+Saying: Thank you!
+
+2023-10-22 00:01:47.701368
+
+Saying: Welcome, I'm listening to your commands!
+what's up
+Saying: You have �va ut - gr�na dagen - Laban. M�l: till bup 17/4 at Sunday October 22nd, 
+You have Pappas f�delsedag, f�dd 1945 at Sunday October 22nd, 
+You have Fira Hanna! at Sunday October 22nd, 14
+
+what's up what's up hello what's up
+Saying: hello to you too!
+Saying: You have Pappas f�delsedag, f�dd 1945 at Sunday October 22nd, 
+You have Fira Hanna! at Sunday October 22nd, 14
+
+
+2023-10-22 00:09:16.569234
+
+A: Welcome, I'm listening to your commands!
+U: what's up
+A: You have Pappas f�delsedag, f�dd 1945 at Sunday October 22nd, 
+You have Fira Hanna! at Sunday October 22nd, 14
+
+U: hello
+A: hello to you too!
+U: what's up
+A: You have Pappas f�delsedag, f�dd 1945 at Sunday October 22nd, 
+You have Fira Hanna! at Sunday October 22nd, 14
+
+U: thank you
+A: You're welcome!
+A: hmm...
+A: ...
+A: um
+A: sssh
+A: ssh
+A: sh
+A: s
+A: Hi!
+A: Hello  to you!
+A: Hello to you!
+A: Hello to you!
+A: Hello to you!
+A: Hello again!
+A: Hello again!
+A: Hello again!
+A: Hello badoo!
+
+2023-10-22 21:39:16.324951
+
+A: Welcome, I'm listening to your commands!
+U: hello
+A: hello to you too!
+U: I'm amazed at your working great thank you
+A: You're welcome!
+U: I just converted you to be in a class instead
+U: maybe I should type the text remove that
+
+2023-10-22 21:41:55.532263
+
+A: Welcome, I'm listening to your commands!
+U: okay let's see if we can find another error
+A: hmm...
+A: hmm...
+U: hi hi
+A:  hi  to you too!
+U: what time is it
+A: It's 21 43.
+U: why did you listen for such a long time you finally got the correct answer what time is it in the UK
+A: It's 20 in London.
+U: what time is it in New York
+A: It's 15 in New  York.
+U: okay
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+U: hello
+A: hello to you too!
+U: greetings
+A: greetings to you too!
+U: thanks
+A: You're welcome!
+U: I'm impressed
+A: Thank you!
+U: come on
+A: hmm...
+A: hmm...
+U: what can you do
+A: 
+                    I can tell you the time, type for you and make text and audio notes.
+                    I'm just learning to help you manage your calendar and your tasks lists.
+                    I hope I can be of assistance!
+                    
+A: hmm...
+U: type for me
+A: Entering typing mode!
+A: hmm...
+A: hmm...
+A: hmm...
+A: Exiting typing mode!
+A: hmm...
+A: hmm...
+U: save audio note
+A: What should the note say?
+
+2023-10-22 21:52:25.776893
+
+A: Welcome, I'm listening to your commands!
+U: hello
+A: hello to you too!
+U: save audio note
+A: What should the note say?
+
+2023-10-22 21:53:43.768484
+
+A: Welcome, I'm listening to your commands!
+U: save audio note
+A: What should the note say?
+A: What should it be called?
+A: Saving audio note close audio note
+A: Saved!
+U: save note
+A: What should the note say?
+A: What should it be called?
+A: Saving note close note
+A: Saved!
+A: hmm...
+U: read audio note
+A: Reading note
+U: what time is it
+A: It's 21 55.
+U: what time is it in UK
+A: It's 20 in London.
+U: what time is it in New York
+A: It's 15 in New  York.
+U: what's up
+A: 
+A: hmm...
+A: hmm...
+A: hmm...
+U: stop
+A: Stopping!
+
+2023-10-22 22:20:52.351071
+
+A: Welcome, I'm listening to your commands!
+
+2023-10-22 22:21:02.399601
+
+A: Welcome, I'm listening to your commands!
+U: what time is it
+A: It's 22 21.
+U: oh my time passes quickly
+A: hmm...
+A: hmm...
+A: hmm...
+U: what time is it in New York
+A: It's 16 in New  York.
+U: what time is it in London
+A: It's 22 21.
+A: hmm...
+U: what time is it in UK
+A: It's 21 in London.
+U: what's up
+A: 
+
+2023-10-22 22:23:17.234840
+
+A: Welcome, I'm listening to your commands!
+U: stop
+A: Stopping!
+
+2023-10-22 22:23:35.854576
+
+A: Welcome, I'm listening to your commands!
+U: what's up
+A: You have Pappas f�delsedag, f�dd 1945 at Sunday October 22nd, 
+You have Fira Hanna! at Sunday October 22nd, 14
+
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+U: stop
+A: Stopping!
+
+2023-10-22 22:27:12.449317
+
+A: Welcome, I'm listening to your commands!
+U: what's up
+
+2023-10-22 22:36:21.925788
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+U: what's up
+A: You have Pappas f�delsedag, f�dd 1945 at Sunday October 22nd, 
+You have Fira Hanna! at Sunday October 22nd, 14
+
+A: hmm...
+A: hmm...
+
+2023-10-22 22:40:27.472420
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+A: hmm...
+U: what's up
+A: You have Pappas f�delsedag, f�dd 1945 at Sunday October 22nd, 
+You have Fira Hanna! at Sunday October 22nd, 14
+
+
+2023-10-22 22:41:53.848043
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+U: what's up
+A: You have Pappas f�delsedag, f�dd 1945 at Sunday October 22nd, 
+You have Fira Hanna! at Sunday October 22nd, 14
+
+A: hmm...
+
+2023-10-22 22:42:43.203273
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+U: what's up
+A: You have Bj�rns f�delsedag 76 at Monday October 23rd, 
+You have Kolla ekonomin och mailen; kivra, gmail, inleed, ev papper at Monday October 23rd, 18
+
+A: hmm...
+A: hmm...
+A: hmm...
+U: stop
+A: Stopping!
+
+2023-10-23 00:02:01.236764
+
+A: Welcome, I'm listening to your commands!
+U: hello
+A: hello to you too!
+U: what's up
+A: You have Bj�rns f�delsedag 76 at Monday October 23rd, 
+You have Kolla ekonomin och mailen; kivra, gmail, inleed, ev papper at Monday October 23rd, 18
+
+A: hmm...
+A: hmm...
+A: hmm...
+U: what time is it
+A: It's 0 3.
+A: hmm...
+U: stop
+A: Stopping!
+
+2023-10-28 17:44:39.634381
+
+A: Welcome, I'm listening to your commands!
+U: stop
+A: Stopping!
+
+2023-10-28 17:47:31.224392
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+U: read to me
+A: What do you want me to read?
+U: stop
+A: Stopping!
+A: authing
+
+2023-10-28 17:49:41.303249
+
+A: Welcome, I'm listening to your commands!
+U: stop
+A: Stopping!
+A: For me  to be able to help you access your calendar and tasks you need to approve me accessing these. A browser window will pop up.
+
+2023-10-28 17:56:01.573546
+
+A: Welcome, I'm listening to your commands!
+U: what's up
+A: None
+A: hmm...
+A: hmm...
+U: stop
+A: Stopping!
+
+2023-10-28 17:59:51.957709
+
+A: Welcome, I'm listening to your commands!
+U: stop
+A: Stopping!
+
+2023-10-28 18:00:36.935702
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+U: hello
+A: hello to you too!
+A: hmm...
+U: today
+A: hmm...
+A: hmm...
+A: hmm...
+
+2023-10-28 18:02:44.088886
+
+A: Welcome, I'm listening to your commands!
+U: what's up today
+A: You have nothing in your calendar today.
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+U: stop stop
+A: Stopping!
+
+2023-10-29 15:28:12.161190
+
+A: Welcome, I'm listening to your commands!
+U: read for me
+A: What do you want me to read?
+
+2023-10-29 15:29:48.433046
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+U: read for me
+A: What do you want me to read?
+
+2023-10-29 15:33:45.952729
+
+A: Welcome, I'm listening to your commands!
+U: read for me
+A: What do you want me to read?
+
+2023-10-29 15:40:06.809216
+
+A: Welcome, I'm listening to your commands!
+U: read for me
+A: What do you want me to read?
+A: 1.6
+U: stop
+A: Stopping!
+
+2023-10-29 15:43:18.787780
+
+A: Welcome, I'm listening to your commands!
+U: read for me
+A: What do you want me to read?
+A: 1.6
+
+2023-10-29 19:28:24.546909
+
+A: Welcome, I'm listening to your commands!
+U: read for me
+A: What do you want me to read?
+
+2023-10-31 15:09:16.209040
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+A: hmm...
+U: read for me
+A: What do you want me to read?
+
+2023-10-31 15:15:51.264714
+
+A: Welcome, I'm listening to your commands!
+U: say volume out
+A: hmm...
+U: make a note
+A: hmm...
+U: save audio note
+A: What should the note say?
+A: What should it be called?
+
+2023-10-31 15:17:04.994456
+
+A: Welcome, I'm listening to your commands!
+U: save audio note
+A: What should the note say?
+A: What should it be called?
+A: hmm...
+A: Could you repeat that, please?
+A: hmm...
+A: Could you repeat that, please?
+A: Saving audio note hello
+A: Saved!
+U: save note
+A: What should the note say?
+A: hmm...
+A: Could you repeat that, please?
+A: Saving note text test
+A: Saved!
+U: great I found another bug
+U: yeah that's in my luck now
+U: log Knock knock hello hello
+A: hello to you too!
+U: read for me
+A: What do you want me to read?
+
+2023-10-31 15:23:07.961926
+
+A: Welcome, I'm listening to your commands!
+U: read for me
+A: What do you want me to read?
+
+2023-10-31 15:24:36.823963
+
+A: Welcome, I'm listening to your commands!
+U: read for me
+A: What do you want me to read?
+A: What page should I start at?
+A: hmm...
+A: Could you repeat that, please?
+
+2023-10-31 15:32:40.724450
+
+A: Welcome, I'm listening to your commands!
+U: why did Ashley get a
+A: hmm...
+U: read for me
+A: What do you want me to read?
+A: What page should I start at?
+
+2023-10-31 16:19:21.456436
+
+A: Welcome, I'm listening to your commands!
+U: hello boo boo boo
+A: hello to you too!
+A: xvi��� Foreword us to remotely control the steering, brakes, and acceleration of the compromised vehicle, were also written in Python.
+
+2023-10-31 16:20:20.865340
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+U: hi there
+A:  hi  to you too!
+A: xvi��� Foreword us to remotely control the steering, brakes, and acceleration of the compromised vehicle, were also written in Python.
+A: You could say, in a way, that Python was responsible for the recall of 1.
+A: 4 million Fiat Chrysler vehicles.
+A: If you are interested in tinkering with information security tasks, Python is a great language to learn because of the large number of reverse engineering and exploitation libraries available for your use.
+
+2023-10-31 16:22:14.208132
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+U: hello
+A: hello to you too!
+A: 2���Chapter 1Installing Kali Linux Kali, the successor to the BackTrack Linux distribution, was designed by Offensive Security as a penetration testing operating system.
+A: It comes with a number of tools preinstalled and is based on Debian Linux, so you�ll be able to install a wide variety of additional tools and libraries.
+A: You will use Kali as your guest virtual machine.
+A: That is, you�ll download a Kali virtual machine and run it on your host machine using your hypervisor of choice.
+A: You can download the Kali VM from https://www.
+A: kali.
+A: org/downloads/  and install it in your hypervisor of choice.
+A: Follow the instructions given in the Kali documentation: https://www.
+A: kali.
+A: org/docs/installation/.
+A: When you�ve gone through the steps of the installation, you should have the full Kali desktop environment, as shown in Figure�1-1.
+A: Figure�1-1: The Kali Linux desktop Because there may have been important updates since the Kali image was created, let�s update the machine with the latest version.
+
+2023-10-31 16:26:21.218962
+
+A: Welcome, I'm listening to your commands!
+U: hello
+A: hello to you too!
+A: 2���Chapter 1Installing Kali Linux Kali, the successor to the BackTrack Linux distribution, was designed by Offensive Security as a penetration testing operating system.
+A: It comes with a number of tools preinstalled and is based on Debian Linux, so you�ll be able to install a wide variety of additional tools and libraries.
+A: You will use Kali as your guest virtual machine.
+A: That is, you�ll download a Kali virtual machine and run it on your host machine using your hypervisor of choice.
+A: You can download the Kali VM from https://www.
+A: kali.
+
+2023-11-01 12:40:42.480793
+
+A: Welcome, I'm listening to your commands!
+U: open Messenger
+
+2023-11-01 12:41:30.354971
+
+A: Welcome, I'm listening to your commands!
+U: open Messenger
+A: Opening Messenger in your browser.
+U: what's up
+A: You have H�stlov at Monday October 30th, 
+
+
+2023-11-01 12:48:30.772004
+
+A: Welcome, I'm listening to your commands!
+U: what's the weather
+A: For which location?
+
+2023-11-01 12:50:55.351711
+
+A: Welcome, I'm listening to your commands!
+U: what's the weather
+A: For which location?
+A: hmm...
+A: Could you repeat that, please?
+A: Speaking 200 workd per minute.
+
+2023-11-01 13:42:14.626016
+
+A: Welcome, I'm listening to your commands!
+U: I don't believe you
+A: Speaking 200 workd per minute.
+
+2023-11-01 13:43:18.689054
+
+A: Speaking 200 workd per minute.
+
+2023-11-01 13:48:38.252129
+
+A: Welcome, I'm listening to your commands!
+U: stop
+A: Stopping!
+A: Speaking 200 workd per minute.
+A: Speaking 200 workd per minute.
+
+2023-11-01 13:54:06.046830
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+U: stop
+A: Stopping!
+A: Speaking 200 workd per minute.
+
+2023-11-01 13:59:25.813739
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+U: stop
+A: Stopping!
+A: Speaking 200 workd per minute.
+
+2023-11-01 14:01:36.931626
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+A: Speaking 200 workd per minute.
+
+2023-11-01 14:02:21.085743
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+A: Speaking 200 workd per minute.
+
+2023-11-01 14:03:13.924030
+
+A: Welcome, I'm listening to your commands!
+U: hello Sarah
+A: hello to you too!
+U: I didn't say Sarah
+A: hmm...
+A: Speaking 200 workd per minute.
+
+2023-11-01 14:04:05.735564
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+A: hmm...
+U: hi Hazel
+A:  hi  to you too!
+A: Speaking 200 words per minute.
+
+2023-11-01 14:04:57.172853
+
+A: Welcome, I'm listening to your commands!
+A: Speaking 200 words per minute.
+A: Speaking 200 words per minute.
+
+2023-11-01 15:10:27.744790
+
+A: Welcome, I'm listening to your commands!
+U: hello
+A: hello to you too!
+U: stop
+A: Stopping!
+A: Speaking 200 words per minute.
+
+2023-11-01 15:10:59.868223
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+A: Speaking 200 words per minute.
+
+2023-11-01 15:11:39.562828
+
+A: Welcome, I'm listening to your commands!
+U: hello
+A: hello to you too!
+A: hmm...
+U: what's up today
+A: You have H�stlov at Monday October 30th, 
+
+A: hmm...
+A: hmm...
+U: read for me
+A: Speaking 200 words per minute.
+
+2023-11-01 15:13:56.039019
+
+A: Welcome, I'm listening to your commands!
+U: good morning
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: Speaking 200 words per minute.
+
+2023-11-01 15:14:47.118873
+
+A: Welcome, I'm listening to your commands!
+U: good morning
+A: good morning to you too!
+A: hmm...
+A: hmm...
+A: hmm...
+U: read for me
+A: What do you want me to read?
+A: What page should I start at?
+A: 14���Chapter 2        formatter_class=argparse.
+A: RawDescriptionHelpFormatter,         epilog=textwrap.
+A: dedent('''Example:� 2             netcat.
+A: py -t 192.
+A: 168.
+A: 1.
+A: 108 -p 5555 -l -c # command shell             netcat.
+A: py -t 192.
+A: 168.
+A: 1.
+A: 108 -p 5555 -l -u=mytest.
+A: txt # upload to file             netcat.
+A: py -t 192.
+A: 168.
+A: 1.
+A: 108 -p 5555 -l -e=\"cat /etc/passwd\" # execute command             echo 'ABC' |.
+A: /netcat.
+A: py -t 192.
+A: 168.
+A: 1.
+A: 108 -p 135 # echo text to server port 135             netcat.
+A: py -t 192.
+A: 168.
+A: 1.
+A: 108 -p 5555 # connect to server         '''))     parser.
+A: add_argument('-c', '--command', action='store_true', help='command shell')� 3     parser.
+A: add_argument('-e', '--execute', help='execute specified command')     parser.
+A: add_argument('-l', '--listen', action='store_true', help='listen')     parser.
+A: add_argument('-p', '--port', type=int, default=5555, help='specified port')     parser.
+A: add_argument('-t', '--target', default='192.
+A: 168.
+A: 1.
+A: 203', help='specified IP')     parser.
+A: add_argument('-u', '--upload', help='upload file')     args = parser.
+A: parse_args()     if args.
+A: listen:� 4         buffer = ''     else:         buffer = sys.
+A: stdin.
+A: read()     nc = NetCat(args, buffer.
+A: encode())     nc.
+A: run() We use the argparse  module from the standard library to create a command line interface� 1.
+A: We�ll provide arguments so it can be invoked to upload a file, execute a command, or start a command shell.
+A: We provide example usage that the program will display when the user invokes it with --help �2 and add six arguments that specify how we want the program to behave� 3.
+A: Speaking 200 words per minute.
+
+2023-11-01 15:21:46.559158
+
+A: Welcome, I'm listening to your commands!
+A: Speaking 250 words per minute.
+
+2023-11-01 15:21:59.015138
+
+A: Welcome, I'm listening to your commands!
+U: hello
+A: hello to you too!
+U: I'm typing out some names of the voices
+A: hmm...
+U: yeah I know what's up today
+A: You have H�stlov at Monday October 30th, 
+
+A: hmm...
+U: what's up tomorrow
+A: You have H�stlov at Monday October 30th, 
+
+U: stop
+A: Stopping!
+A: Speaking 250 words per minute.
+
+2023-11-01 16:56:04.098259
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+U: read for me
+A: What do you want me to read?
+A: hmm...
+U: read for me
+A: What do you want me to read?
+A: hmm...
+A: hmm...
+A: Speaking 250 words per minute.
+
+2023-11-01 16:57:29.722407
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+U: read for me
+A: What do you want me to read?
+A: hmm...
+A: hmm...
+U: read for me
+A: What do you want me to read?
+A: Speaking 250 words per minute.
+
+2023-11-01 16:59:34.117787
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: Speaking 250 words per minute.
+
+2023-11-01 17:01:34.867473
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+
+2023-11-01 17:02:36.599620
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+
+2023-11-01 17:03:07.499686
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: I'm speaking 250 words per minute.
+
+2023-11-01 17:04:25.055731
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+
+2023-11-01 17:05:31.050179
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+U: help yourself
+
+2023-11-01 17:09:16.388307
+
+A: Welcome, I'm listening to your commands!
+U: read for me
+A: What do you want me to read?
+A: What page should I start at?
+A: Python Tutorial, Release 3.
+A: 7.
+A: 0 (continued from previous page) aiffread.
+A: py aiffwrite.
+A: py auread.
+A: py auwrite.
+A: py.
+A: .
+A: .
+A: effects/ Subpackage for sound effects __init__.
+A: py echo.
+A: py surround.
+A: py reverse.
+A: py.
+A: .
+A: .
+A: filters/ Subpackage for filters __init__.
+A: py equalizer.
+A: py vocoder.
+A: py karaoke.
+A: py.
+A: .
+A: .
+A: When importing the package, Python searches through the directories on sys.
+A: path looking for the package subdirectory.
+A: The__init__.
+b'A: py \xef\xac\x81les are required to make Python treat the directories as containing packages; this is done to prevent directories with a common name, such as string, from unintentionally hiding valid modules that occur later on the module search path.'
+A: In the simplest case, __init__.
+b'A: py can just be an empty \xef\xac\x81le, but it can also execute initialization code for the package or set the __all__ variable, described later.'
+A: Users of the package can import individual modules from the package, for example: import sound.
+A: effects.
+A: echo This loads the submodule sound.
+A: effects.
+A: echo.
+A: It must be referenced with its full name.
+A: sound.
+A: effects.
+A: echo.
+A: echofilter( input, output, delay =0.
+A: 7, atten=4) An alternative way of importing the submodule is: from sound.
+b'A: effects importecho This also loads the submodule echo, and makes it available without its package pre\xef\xac\x81x, so it can be used as follows: echo.'
+A: echofilter( input, output, delay =0.
+A: 7, atten=4) Yet another variation is to import the desired function or variable directly: from sound.
+A: effects.
+A: echo importechofilter Again, this loads the submodule echo, but this makes its function echofilter() directly available: echofilter( input, output, delay =0.
+b'A: 7, atten=4) Note that when using from package import item , the item can be either a submodule (or subpackage) of the package, or some other name de\xef\xac\x81ned in the package, like a function, class or variable.'
+b'A: The import statement \xef\xac\x81rst tests whether the item is de\xef\xac\x81ned in the package; if not, it assumes it is a module and attempts to load it.'
+b'A: If it fails to \xef\xac\x81nd it, an ImportError exception is raised.'
+A: Contrarily, when using syntax like import item.
+A: subitem.
+b'A: subsubitem , each item except for the last must be a package; the last item can be a module or a package but can\xe2\x80\x99t be a class or function or variable de\xef\xac\x81ned 6.'
+A: 4.
+A: Packages 49.
+
+2023-11-01 17:12:00.804536
+
+A: Welcome, I'm listening to your commands!
+U: read for me
+A: What do you want me to read?
+A: What page should I start at?
+A: Python Tutorial, Release 3.7.0 30 Chapter 4.
+A: More Control Flow Tools.
+A: CHAPTER FIVE DATA STRUCTURES This chapter describes some things you�ve learned about already in more detail, and adds some new things as well.
+A: 5.1More on Lists The list data type has some more methods.
+A: Here are all of the methods of list objects: list.
+A: append(x) Add an item to the end of the list.
+A: Equivalent to a[len(a):] = [x].
+A: list.
+A: extend(iterable) Extend the list by appending all the items from the iterable.
+A: Equivalent to a[len(a):] = iterable.
+A: list.
+A: insert(i,x) Insert an item at a given position.
+b'A: The \xef\xac\x81rst argument is the index of the element before which to insert, so a.insert(0, x) inserts at the front of the list, and a.insert(len(a), x) is equivalent to a.append(x).'
+A: list.
+b'A: remove(x) Remove the \xef\xac\x81rst item from the list whose value is equal to x.'
+A: It raises a ValueError if there is no such item.
+A: list.
+A: pop([i]) Removetheitematthegivenpositioninthelist, andreturnit.
+b'A: Ifnoindexisspeci\xef\xac\x81ed, a.pop() removes and returns the last item in the list.'
+A: (The square brackets around the iin the method signature denote that the parameter is optional, not that you should type square brackets at that position.
+A: You will see this notation frequently in the Python Library Reference.) list.
+A: clear() Remove all items from the list.
+A: Equivalent to del a[:].
+A: list.
+b'A: index(x[,start [,end ] ]) Return zero-based index in the list of the \xef\xac\x81rst item whose value is equal to x.'
+A: Raises a ValueError if there is no such item.
+A: The optional arguments startand endare interpreted as in the slice notation and are used to limit the search to a particular subsequence of the list.
+A: The returned index is computed relative to the beginning of the full sequence rather than the startargument.
+A: list.
+A: count(x) Return the number of times xappears in the list.
+A: list.
+A: sort(key=None ,reverse=F alse ) Sort the items of the list in place (the arguments can be used for sort customization, see sorted() for their explanation).
+A: 31.
+A: Python Tutorial, Release 3.7.0 list.
+A: reverse() Reverse the elements of the list in place.
+A: list.
+A: copy() Return a shallow copy of the list.
+A: Equivalent to a[:].
+A: An example that uses most of the list methods: >>>fruits=['orange','apple','pear','banana','kiwi','apple','banana'] >>>fruits.count('apple') 2 >>>fruits.count('tangerine ') 0 >>>fruits.index('banana') 3 >>>fruits.index('banana',4)# Find next banana starting a position 4 6 >>>fruits.reverse() >>>fruits ['banana', 'apple', 'kiwi', 'banana', 'pear', 'apple', 'orange'] >>>fruits.append('grape') >>>fruits ['banana', 'apple', 'kiwi', 'banana', 'pear', 'apple', 'orange', 'grape'] >>>fruits.sort() >>>fruits ['apple', 'apple', 'banana', 'banana', 'grape', 'kiwi', 'orange', 'pear'] >>>fruits.pop() 'pear' You might have noticed that methods like insert,removeorsortthat only modify the list have no return value printed � they return the default None.1This is a design principle for all mutable data structures in Python.
+b'A: 5.1.1Using Lists as Stacks The list methods make it very easy to use a list as a stack, where the last element added is the \xef\xac\x81rst element retrieved (\xe2\x80\x9clast-in, \xef\xac\x81rst-out\xe2\x80\x9d).'
+A: To add an item to the top of the stack, use append().
+A: To retrieve an item from the top of the stack, use pop()without an explicit index.
+A: For example: >>>stack=[3,4,5] >>>stack.append(6) >>>stack.append(7) >>>stack [3, 4, 5, 6, 7] >>>stack.pop() 7 >>>stack [3, 4, 5, 6] >>>stack.pop() 6 >>>stack.pop() 5 >>>stack [3, 4] 1Other languages may return the mutated object, which allows method chaining, such as d->insert("a")->remove("b")->sort();.
+A: 32 Chapter 5.
+A: Data Structures.
+b'A: Python Tutorial, Release 3.7.0 5.1.2Using Lists as Queues It is also possible to use a list as a queue, where the \xef\xac\x81rst element added is the \xef\xac\x81rst element retrieved (\xe2\x80\x9c\xef\xac\x81rst-in, \xef\xac\x81rst-out\xe2\x80\x9d); however, lists are not e\xef\xac\x83cient for this purpose.'
+
+2023-11-01 17:17:37.870138
+
+A: Welcome, I'm listening to your commands!
+U: hello
+A: hello to you too!
+U: read for me
+A: What do you want me to read?
+A: hmm...
+A: Could you repeat that, please?
+A: hmm...
+A: Could you repeat that, please?
+A: What page should I start at?
+A: Setting Up Your Python�Environment ���5If you get an error or a version of Python 2, make sure you followed all the preceding steps and that you have the up-to-date version of Kali.
+A: Keep in mind that for most examples throughout this book, you can develop your code in a variety of environments, including macOS, Linux, and Windows.
+A: You may also want to set up a different virtual environment for separate projects or chapters.
+A: Some chapters are Windows specific, which we�ll make sure to mention at the beginning of the chapter.
+A: Now that we have our hacking virtual machine and a Python 3 virtual environment set up, let�s install a Python IDE for development.
+A: Installing an IDE An integrated development environment (IDE)  provides a set of tools for coding.
+A: Typically, it includes a code editor, with syntax highlighting and automatic linting, and a debugger.
+A: The purpose of the IDE is to make it easier to code and debug your programs.
+A: You don�t have to use one to program in Python; for small test programs, you might use any text editor (such as vim, nano, Notepad, or emacs).
+A: But for larger, more complex project, an IDE will be of enormous help to you, whether by indicating variables you have defined but not used, finding misspelled variable names, or locating missing package imports.
+A: In a recent Python developer survey, the top two favorite IDEs were PyCharm (which has commercial and free versions available) and Visual Studio Code (free).
+A: Justin is a fan of WingIDE (commercial and free versions available), and Tim uses Visual Studio Code (VS Code).
+A: All three IDEs can be used on Windows, macOS, or Linux.
+A: You can install PyCharm from https://www.jetbrains.com/pycharm/download/  or WingIDE from https://wingware.com/downloads/.

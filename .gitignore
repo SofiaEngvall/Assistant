@@ -1,0 +1,6 @@
+.git/
+__pycache__/
+token.json
+creds.json
+token.json.zooe
+ideas/python-yr-1.4.7.post2
