@@ -1098,3 +1098,226 @@ A: In a recent Python developer survey, the top two favorite IDEs were PyCharm (
 A: Justin is a fan of WingIDE (commercial and free versions available), and Tim uses Visual Studio Code (VS Code).
 A: All three IDEs can be used on Windows, macOS, or Linux.
 A: You can install PyCharm from https://www.jetbrains.com/pycharm/download/  or WingIDE from https://wingware.com/downloads/.
+
+2023-11-02 14:25:04.463351
+
+A: Welcome, I'm listening to your commands!
+U: type for me I guess that's a problem with not paying for the Google speech to text but it's slow and I have to be quiet
+A: Entering typing mode!
+A: hmm...
+A: Exiting typing mode!
+U: yeah so I can say what's up
+A: You have Höstlov at Monday October 30th, 
+
+
+2023-11-02 14:34:05.937604
+
+A: Welcome, I'm listening to your commands!
+U: save note
+A: What should the note say?
+A: What should it be called?
+A: Saving note stream in Death Note
+A: Saved!
+
+2023-11-02 14:35:21.797476
+
+A: Welcome, I'm listening to your commands!
+U: save audio note
+A: What should the note say?
+A: What should it be called?
+A: Saving audio note another test note again and again
+A: Saved!
+A: hmm...
+A: hmm...
+U: I think that's my Google too so anything more nothing more on the lesson part they know what you worried you've already seen it's just the
+
+2023-11-02 14:46:39.991432
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+A: hmm...
+U: read for me
+A: What do you want me to read?
+U: Oh I thought the wrong word Python tutorial please that would be nice of you to actually understand me correctly
+A: hmm...
+
+2023-11-02 14:49:06.857738
+
+A: Welcome, I'm listening to your commands!
+U: also my background level should be crazy there read for me
+A: What do you want me to read?
+A: What page should I start at?
+
+2023-11-02 14:50:57.921744
+
+A: Welcome, I'm listening to your commands!
+U: read for me
+A: What do you want me to read?
+A: hmm...
+
+2023-11-02 14:51:58.634423
+
+A: Welcome, I'm listening to your commands!
+U: read for me please
+A: What do you want me to read?
+U: read for me also I have so much so the latest parts are not
+A: What do you want me to read?
+A: What page should I start at?
+
+2023-11-02 14:54:40.014821
+
+A: Welcome, I'm listening to your commands!
+U: read for me please
+A: What do you want me to read?
+A: What page should I start at?
+A: CHAPTER TW O USING THE PYTHON INTERPRETER 2.1 Invoking the Interpreter The Python interpreter is usually installed as /usr/local/bin/python3.7 on those machines where it is available; putting /usr/local/bin in your Unix shell’s search path makes it possible to start it by typing the command: python3.7 to the shell.1Since the choice of the directory where the interpreter lives is an installation option, other places are possible; check with your local Python guru or system administrator.
+
+2023-11-02 14:59:07.942267
+
+A: Welcome, I'm listening to your commands!
+U: good morning
+A: good morning to you too!
+U: thank you
+A: You're welcome!
+U: I'm impressed
+A: Thank you!
+U: so we can do it has a bit of a human feeling or at least when you expect a reply you know if you say something like oh my God I'm impressed you managed that and it said let's see how long it will be listening for will listen until I'm quiet
+A: Thank you!
+U: does
+U: no I just got the dust there so I have to fix that and did I say
+A: hmm...
+U: songs
+A: hmm...
+U: hi Dylan welcome
+A:  hi  to you too!
+U: so what do you think I should add it's very simple you know it's no Advanced AI thing recognizing stuff is just it's type and me in the text
+A: 
+                    I can tell you the time, type for you and make text and audio notes.
+                    I'm just learning to help you manage your calendar and your tasks lists.
+                    I hope I can be of assistance!
+                    
+A: Entering typing mode!
+A: Exiting typing mode!
+
+2023-11-02 15:03:41.033364
+
+A: Welcome, I'm listening to your commands!
+U: what time is it
+A: It's 15 3.
+U: all right I have to fix that I don't want to say to say 153 it also will say
+A: hmm...
+U: about New York
+U: what time is it in New York
+A: It's 10 in New  York.
+U: is that correct
+U: Maybe
+U: play evening time
+A: hmm...
+U: play this is the way I heard it before I move the false and it forgot all my minimization so what's up anymore you know how many times have I had this morning the first thing was oh my God oh my library and how easy it is to see you soon and then now like a few days ago oh my God if you like Google for kids on python there's nothing else you got this one and it doesn't work it's not been up for 3 years or three years so what it's amazing that half of the functions doesn't work anymore and
+A: It's 15 9.
+A: You have Höstlov at Monday October 30th, 
+
+
+2023-11-02 15:13:49.279963
+
+A: Welcome, I'm listening to your commands!
+U: what's the weather
+A: For which location?
+U: I think
+U: and I think you needed to do some Windows operating system
+U: so cuz it's quite nice to see you know a preview of The Stream even if it's you know with the delay and everything on another computer
+U: reduce the battery parts and then I realized that I maybe I can use it the keyboard is broken but it doesn't matter if it's up there anyway stuff right
+A: hmm...
+
+2023-11-02 15:17:29.895251
+
+A: Welcome, I'm listening to your commands!
+U: self-destruct
+A: Counting down to self destruct: 10, 9, 8, 7, 6
+A: Just kidding!! hehe
+U: that's a bit off
+U: okay so now I'm to where I wanted to be from the start everything is pulled together the code doesn't look so nice anymore right so and also one thing I noticed that when you have several subclasses like this if you want to call them to each other then I send the parent into them and all of them I get for the internet and a set of any problems that's very very much I don't think so because I don't know this works fine just tell him to send the I'm sorry I have to meet me for 2 seconds
+U: mine's not that good so I'm still it it keeps keeps listening here so what should I do I did the self-destruct and then stop is before it just stop before it sets a self-destruct now or maybe I might have said something else in here we'll see
+A: Stopping!
+A: I'm speaking 200 words per minute.
+
+2023-11-02 16:54:53.206573
+
+A: Welcome, I'm listening to your commands!
+U: what's 300 words isn't it
+U: this is interesting
+U: speed
+U: hello there
+A: hello to you too!
+A: I'm speaking 0 words per minute.
+
+2023-11-02 16:55:31.435818
+
+A: Welcome, I'm listening to your commands!
+A: hmm...
+U: wind speed
+U: okay let's check out the greatest we can maybe do mathematical conversion
+U: our thing actually see the correct things
+A: hmm...
+U: how is parade is from -10 - 10
+U: what's the 200 and 300 are both above
+U: I guess it makes it nice
+U: okay look 0100
+A: hmm...
+U: okay so that was the fastest you can talk I wasn't very fast
+U: I want to go higher
+U: what concerns me a bit okay okay let's see this now that we know what we're dealing with minus 10 to 10 - 10 to 10:00 a.m.
+A: My speaking rate is set to 5.
+
+2023-11-02 16:57:54.137128
+
+A: Welcome, I'm listening to your commands!
+U: hello there
+A: hello to you too!
+U: what's up
+A: You have Höstlov at Monday October 30th, 
+
+U: what time is it
+A: It's 16 58.
+U: type for me
+A: Entering typing mode!
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+A: Exiting typing mode!
+U: thank you
+A: You're welcome!
+U: I was almost thinking you were going to sleep
+A: Sleeping. Please say listen to activate me again.
+A: I'm listening to your commands!
+
+2023-11-02 17:05:59.382199
+
+A: Welcome, I'm listening to your commands!
+U: what's the weather
+
+2023-11-02 17:07:08.875800
+
+A: Welcome, I'm listening to your commands!
+U: what's the weather
+A: Opening YR Weather in you browser!
+
+2023-11-02 17:07:41.176305
+
+A: Welcome, I'm listening to your commands!
+U: what's the weather
+A: Opening Y R Weather in you browser!
+U: this is very slow maybe that's for next time I will see if I'll be streaming or not
+A: hmm...
+U: search for test yeah we can do this with whatever the location says so before getting the API working at least we will have all right
+
+2023-11-02 17:09:55.900963
+
+A: Welcome, I'm listening to your commands!
+U: what's the weather
+A: For which location?
+A: Opening Y R Weather in you browser!
+U: quit raining apparently test something like a place can be called
+U: it's probably a good thing to say so
+U: check out doo doo no add more advanced reading and we did find this too so let's run previous versions

@@ -3,12 +3,13 @@ import datetime as dt
 import pytz
 
 import pyttsx3
+import win32com.client
 import speech_recognition as sr
 from pynput.keyboard import Key, Controller
 
 from pypdf import PdfReader
 from webbrowser import open_new_tab
-from yr.libyr import Yr
+# from yr.libyr import Yr
 
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
@@ -18,7 +19,7 @@ from googleapiclient.errors import HttpError
 from google.auth.exceptions import RefreshError
 
 
-SPEAKING_SPEED = 200
+SPEAKING_SPEED = 1  # -10 to 10
 
 
 class Assistant():
@@ -50,32 +51,31 @@ class Assistant():
     class Speaker():
         def __init__(self, parent):
             self.parent = parent
-            self.tts = pyttsx3.init()
+            self.tts = win32com.client.Dispatch('SAPI.Spvoice')
 
             # self.print_voices()
             self.set_voice(2)
             self.set_speed(SPEAKING_SPEED)
-            # self.tell_speed(SPEAKING_SPEED)
+            # self.tell_speed()
 
         def set_voice(self, voice_number):
-            voices = self.tts.getProperty('voices')
-            self.tts.setProperty('voice', voices[voice_number].id)
+            voices = self.tts.GetVoices()
+            self.tts.Voice = voices.Item(voice_number)
 
         def print_voices(self):
-            voices = self.tts.getProperty('voices')
+            voices = self.tts.GetVoices()
             for voice in voices:
-                print(voice.name)
-            print(f"Current voice: {self.tts.getProperty('voice')}")
+                print(voice.GetDescription())
+            print(f"Current voice: {self.tts.Voice.GetDescription()}")
 
         def set_speed(self, speed):
-            self.tts.setProperty("rate", speed)
+            self.tts.Rate = speed
 
-        def tell_speed(self, speed):
-            self.speak(f"I'm speaking {speed} words per minute.")
+        def tell_speed(self):
+            self.speak(f"My speaking rate is set to {self.tts.Rate}.")
 
         def speak(self, text):
-            self.tts.say(text)
-            self.tts.runAndWait()
+            self.tts.Speak(text)
             self.parent.file.log(f"A: {text}")
 
     class Listener():
@@ -382,13 +382,15 @@ if __name__ == "__main__":
             if "weather" in text:
                 assistant.speaker.speak("For which location?")
                 location = assistant.listener.get_name()
-                if "home" in location:
-                    weather = Yr(location_name='Norge/Telemark/Skien/Skien')
-                    # assistant.speaker.speak(weather.now(as_json=True))
-                    print(weather.now(as_json=True))
-                    "Accept-Encoding: gzip, deflate"
-                    # "acmeweathersite.com support@acmeweathersite.com" "AcmeWeatherApp/0.9 github.com/acmeweatherapp"
-                    "User-Agents: Assistant.py sofia@fixitnow.se"
+                assistant.speaker.speak("Opening Y R Weather in you browser!")
+                open_new_tab(f"https://www.yr.no/en/search?q={location}")
+                # if "home" in location:
+                # weather = Yr(location_name='Norge/Telemark/Skien/Skien')
+                # assistant.speaker.speak(weather.now(as_json=True))
+                # print(weather.now(as_json=True))
+                # "Accept-Encoding: gzip, deflate"
+                # "acmeweathersite.com support@acmeweathersite.com" "AcmeWeatherApp/0.9 github.com/acmeweatherapp"
+                # "User-Agents: Assistant.py sofia@fixitnow.se"
 
             if "sleep" in text:
                 print("Pausing assistant")
