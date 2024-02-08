@@ -1,5 +1,8 @@
 todo list
 ---------
+
+STT - Why does it take so much time for it to finish listening sometimes. can I set parameters on how to listen?
+
 add more advanced reading: <https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms723602(v=vs.85)>
                            <https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms720892(v=vs.85)>
 search google, open first hit..
@@ -11,3 +14,5 @@ weather yr? openweather?
 news?
 control stuff - house heat, threadmill, remote controlled power outlets for heat and such, home automation  mqtt
     webui for remote access and control (of streaming, heat..)
+
+

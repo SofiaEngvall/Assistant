@@ -2,7 +2,6 @@ import os.path
 import datetime as dt
 import pytz
 
-import pyttsx3
 import win32com.client
 import speech_recognition as sr
 from pynput.keyboard import Key, Controller
@@ -263,17 +262,22 @@ class Assistant():
         book_title = ""
         self.speaker.speak("What do you want me to read?")
         book = self.listener.get_name()
+        self.file.log(f"U: {book}")
         book = book.lower()
         print(book)
         if "black" in book and "python" in book:
             book_title = "Black Hat Python.pdf"
-        if "python" in book and "tutorial" in book:
+        elif "python" in book and "tutorial" in book:
             book_title = "Tutorial.pdf"
+        else:
+            self.speaker.speak("Sorry, I couldn't find that book.")
+            book_title = ""
         if book_title != "":
             # "Do you want me to continue where we left off?""
             #  else:
             self.speaker.speak("What page should I start at?")
             page = int(self.listener.get_name())
+            self.file.log(f"U: {page}")
             self.read_pdf(book_title, page)
 
     def read_pdf(self, book_name, page=0):
@@ -301,7 +305,7 @@ if __name__ == "__main__":
     while True:
         text = assistant.listener.listen()
         if text != "":
-            assistant.file.log("U: "+text)
+            assistant.file.log(f"U: {text}")
             print("U: "+text)
             text = " "+text.lower()+" "
 

@@ -1321,3 +1321,30 @@ A: Opening Y R Weather in you browser!
 U: quit raining apparently test something like a place can be called
 U: it's probably a good thing to say so
 U: check out doo doo no add more advanced reading and we did find this too so let's run previous versions
+A: I failed to refresh my permissions to your calendar and your tasks. A browser window will pop up so that you can renew these. Thank you!
+
+2023-11-07 14:35:44.700916
+
+A: Welcome, I'm listening to your commands!
+U: read for me
+A: What do you want me to read?
+U: play some tutorial please
+U: read for me
+A: What do you want me to read?
+U: Python tutorial
+A: What page should I start at?
+U: 10
+
+2023-11-07 14:39:40.896959
+
+A: Welcome, I'm listening to your commands!
+U: read for me
+A: What do you want me to read?
+U: some book that sounds fun
+A: Sorry, I couldn't find that book.
+U: type for me
+A: Entering typing mode!
+A: hmm...
+A: Exiting typing mode!
+U: stop
+A: Stopping!
