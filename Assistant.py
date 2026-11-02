@@ -89,7 +89,14 @@ class Assistant():
         def listen(self):
             text = ""
             with self.mic as source:
-                source.pause_threshold = 1
+                #source.pause_threshold = 1
+
+                #workaround for mic problems?
+                source.pause_threshold = 15
+                source.non_speaking_duration = 2 #0.5
+                source.energy_threshold = 40  # 300?
+                source.dynamic_energy_threshold = False
+
                 print("Listening...")
                 audio = self.sr.listen(source)
             if audio != None:

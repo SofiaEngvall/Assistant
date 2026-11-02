@@ -1348,3 +1348,341 @@ A: hmm...
 A: Exiting typing mode!
 U: stop
 A: Stopping!
+A: I failed to refresh my permissions to your calendar and your tasks. A browser window will pop up so that you can renew these. Thank you!
+
+2025-04-22 16:33:00.023788
+
+A: Welcome, I'm listening to your commands!
+
+2025-04-22 16:34:14.152238
+
+A: Welcome, I'm listening to your commands!
+
+2025-04-22 16:43:54.312611
+
+A: Welcome, I'm listening to your commands!
+
+2025-04-27 01:31:24.759753
+
+A: Welcome, I'm listening to your commands!
+A: I failed to refresh my permissions to your calendar and your tasks. A browser window will pop up so that you can renew these. Thank you!
+
+2025-05-02 15:28:20.075557
+
+A: Welcome, I'm listening to your commands!
+U: so are you listening can you actually
+U: it's working
+A: hmm...
+A: hmm...
+U: hello
+A: hello to you too!
+U: and this is not a
+A: hmm...
+U: because it will be a bit funny you know
+A: hmm...
+A: hmm...
+U: so there's
+A: hmm...
+U: what time is it
+A: It's 15 29.
+U: self destruct
+A: Counting down to self destruct: 10, 9, 8, 7, 6
+A: Just kidding!! hehe
+U: stop
+A: Stopping!
+
+2025-05-02 15:30:13.298061
+
+A: Welcome, I'm listening to your commands!
+U: sleep
+A: Sleeping. Please say listen to activate me again.
+A: I'm listening to your commands!
+A: hmm...
+U: the weather
+A: For which location?
+A: Opening Y R Weather in you browser!
+U: because now I've got the the response for
+U: I have it working
+U: but this is not for for today I'm thinking and this is why I don't have
+U: I started with
+U: yeah but then
+U: API access disappeared but now we have the local
+U: yes it doesn't understand
+U: use calendar
+U: in my speech
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+U: what's up
+A: You have Fireside Fridays - Anatomy of a VPN - Part 2 of 3 at Friday May 2nd, 19
+
+U: Melissa
+A: hmm...
+A: hmm...
+A: hmm...
+U: save or
+U: save
+A: hmm...
+U: actually get all my
+A: hmm...
+A: hmm...
+A: hmm...
+U: it's like timing out too quickly
+U: but it's at least at least
+U: save audio
+A: hmm...
+A: hmm...
+A: hmm...
+U: worked fine
+A: hmm...
+U: read
+U: read me
+A: What do you want me to read?
+U: why do I have to read
+A: Sorry, I couldn't find that book.
+U: tutorial
+U: read me
+A: What do you want me to read?
+A: hmm...
+A: Could you repeat that, please?
+A: hmm...
+A: Could you repeat that, please?
+A: hmm...
+A: Could you repeat that, please?
+U: thank you
+A: Sorry, I couldn't find that book.
+U: so how do you get it
+U: it has to manage to
+U: I have like
+A: hmm...
+U: all right this is happening
+U: do the log file so it's all the text
+U: when I did
+U: oh my God
+U: yeah
+A: hmm...
+A: hmm...
+U: all the time
+U: so here we have no
+A: hmm...
+U: this is why we couldn't get it to listen
+U: 2023 November
+A: hmm...
+U: Willow
+A: hmm...
+U: Home Depot I put it all separate but as you can see all the taxes all the things I'm saying
+U: I don't know something
+U: set the time it's not actually listening all the time it's just listening for short minutes
+A: hmm...
+A: hmm...
+U: so it is my assistant listening to
+U: so assistant
+A: hmm...
+A: hmm...
+A: hmm...
+U: private separately
+U: a record get me listener has listen record
+A: hmm...
+U: I don't know why it's there but it's there
+U: observed of the tokens for going into my
+A: hmm...
+U: so stop
+A: Stopping!
+
+2025-05-02 17:03:01.039513
+
+A: Welcome, I'm listening to your commands!
+U: hello
+A: hello to you too!
+U: thank you
+A: You're welcome!
+A: hmm...
+U: what can you do
+A: 
+                    I can tell you the time, type for you and make text and audio notes.
+                    I'm just learning to help you manage your calendar and your tasks lists.
+                    I hope I can be of assistance!
+                    
+U: so read for me
+A: What do you want me to read?
+U: goof girlfriend
+A: Sorry, I couldn't find that book.
+A: hmm...
+A: hmm...
+A: hmm...
+U: save audio
+U: it's it's not even rubbing
+U: say what
+U: say what
+U: save
+
+2025-05-02 17:24:33.317894
+
+A: Welcome, I'm listening to your commands!
+U: save audio
+U: save
+U: you see it's it's like all right
+A: hmm...
+U: so this is interesting will it hear me at all now will it help me at all
+U: testing
+U: sweetheart
+U: what was an
+U: save audio
+U: note audio
+U: note save audio
+A: What should the note say?
+A: What should it be called?
+A: hmm...
+A: Could you repeat that, please?
+A: Saving audio note what
+A: Saved!
+U: play Radio Disney
+A: hmm...
+U: the Riverside where
+A: hmm...
+A: hmm...
+U: I'm sorry is
+A: hmm...
+U: the problem is like
+A: hmm...
+U: open the folder Riverland
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+U: oh that's so low
+U: so let's say that we kind of know
+U: at the volume
+A: hmm...
+U: the Google can get
+U: that's why it stops because it costs things I'm not quiet
+A: Stopping!
+
+2025-05-02 17:35:10.428924
+
+A: Welcome, I'm listening to your commands!
+U: so here we have it
+U: yeah so we have poison
+U: hello
+A: hello to you too!
+A: hmm...
+A: hmm...
+U: Beverly but I'm like both of these don't tell them I
+A: hmm...
+U: the little story
+U: oh so this is the out
+U: and here we only have
+U: yeah yeah yeah yeah I realize
+U: so it's it seems
+U: hello
+A: hello to you too!
+U: I can lower the volume
+U: right is it lower for you now know it's
+A: hmm...
+A: hmm...
+U: specifically
+U: it doesn't matter because it doesn't have an output to my desktop this is that of course
+A: hmm...
+U: so what I would like to do is to set a different tabs in
+U: so I wonder if I have several things if it pops up several times because that's another thing
+U: outfit for different streams on Twitch in different headphones or like one year one year you know
+U: Lincoln here
+U: when you're listening to several streams the audio like
+U: when you doing it in
+U: that's when you're just using speakers for some reason
+U: it's hard to say what people hear what people say sometimes
+A: It's 17 37.
+U: I said times that's what
+A: It's 17 37.
+U: pussy Mimi maybe maybe it will self-destruct or something here
+A: Counting down to self destruct: 10, 9, 8, 7, 6
+A: Just kidding!! hehe
+U: so I feel
+U: it doesn't have any
+A: hmm...
+U: opening
+U: back the test key God when
+U: whatever let's let's just programming
+U: so what am I called
+U: you can come music
+A: hmm...
+A: hmm...
+U: I'm
+U: before you do something
+U: so I just want to have an audio
+U: I will have
+U: and we'll see if it pops up in here
+A: hmm...
+U: testing testing
+U: testing testing
+U: testing testing
+U: nothing
+U: so what do we start another
+A: hmm...
+U: so now you shouldn't have a music
+U: see if you can separated
+A: hmm...
+U: yeah but I think it does I saw what it said there that's that's why I'm curious
+U: celebrity
+A: hmm...
+U: so what if I hop back here then it will say 6:42
+U: yeah right
+A: hmm...
+A: hmm...
+A: hmm...
+A: hmm...
+U: so many things
+U: so someone leave
+U: videos for Combined chat YouTube twitch
+U: I need a
+A: hmm...
+U: yeah it keeps humming in the background
+U: don't you make it to the side
+U: so I added that self
+U: yeah it was either give me the tip ride
+U: so let's see
+U: I didn't hear
+U: it didn't hear and then
+U: get
+A: hmm...
+A: hmm...
+
+2025-05-02 17:50:36.785400
+
+A: Welcome, I'm listening to your commands!
+U: I just died
+U: what's to
+A: hmm...
+U: ouch my ear
+A: hmm...
+U: this is a test of talking a little longer
+U: let it grow a couple bit off but now you know
+U: the
+U: and this is why I didn't
+A: I failed to refresh my permissions to your calendar and your tasks. A browser window will pop up so that you can renew these. Thank you!
+
+2026-10-15 21:49:24.986551
+
+A: Welcome, I'm listening to your commands!
+U: what's the weather today
+A: You have Linus skola (nu 12.30-13.45/14) at Thursday October 15th, 12
+You have Laban, Community of Gamers at Thursday October 15th, 14
+
+A: For which location?
+A: hmm...
+A: Could you repeat that, please?
+A: Opening Y R Weather in you browser!
+A: hmm...
+A: hmm...
+U: what time is it
+A: It's 21 50.
+A: hmm...
+A: hmm...
+A: hmm...
+U: the milkshake is good
+A: hmm...
+A: hmm...
+A: hmm...
+U: stop
+A: Stopping!
